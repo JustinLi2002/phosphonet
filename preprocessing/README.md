@@ -1,4 +1,4 @@
-# title – *Data Pre‑processing*
+# Data Pre‑processing
 
 This repository contains **three pipelines** that prepare all inputs needed for downstream representation‑learning experiments on phosphorylation sites.
 
